@@ -88,8 +88,6 @@ function changeImageByLang(lang_index){
           // document.getElementById('lang_pic_cause').src = "images/come_img01.jpg" ;
           // document.getElementById('lang_comeright').src = "images/PM_info.png" ;
           document.getElementById('lang_timeswitch_img').src = "images/plug_schedule.jpg" ;
-          // document.getElementById('lang_blue_img').src = "images/group_bg.jpg" ;
-          // document.getElementById('lang_blue_img_min').src = "images/bluetooth_bg_min.jpg" ;
           document.getElementById('lang_download_title_img').src = "images/download_title.jpg" ;
           console.log("image is cht");
         } else {
@@ -97,11 +95,8 @@ function changeImageByLang(lang_index){
           // document.getElementById('slideshowImage2').src = "images/slider_example_2_eng.jpg" ;
           // document.getElementById('lang_pic_cause').src = "images/come_img01_eng.jpg" ;
           // document.getElementById('lang_comeright').src = "images/PM_info_eng.png" ;
-          document.getElementById('lang_timeswitch_img').src = "images/plug_schedule_eng.jpg" ;
-          // document.getElementById('lang_blue_img').src = "images/group_bg_eng.jpg" ;
-          // document.getElementById('lang_blue_img_min').src = "images/bluetooth_bg_min_eng.jpg" ;
-          document.getElementById('lang_download_title_img').src = "images/download_title_eng.jpg" ;
-          
+          document.getElementById('lang_timeswitch_img').src = "images/plug_schedule_eng.jpg" ;    
+          document.getElementById('lang_download_title_img').src = "images/download_title_eng.jpg" ;          
           console.log("english image now");
         }
   return;
