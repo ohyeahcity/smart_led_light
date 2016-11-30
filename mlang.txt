@@ -83,7 +83,7 @@
       "lang_spec_title02": "額定負載電流",
       "lang_spec_text02": "正常負載 – 1200w / 過載標準 – 1400w",
       "lang_spec_title03a": "自動斷電保護",
-      "lang_spec_text03": "超過1400w或15安培會啟動斷電保護",
+      "lang_spec_text03": "超過1400w或15安培會啟動斷電保護(en)",
       "lang_spec_title04": "運作溫度",
       "lang_spec_text04": "0 ~ 40°C",
       "lang_spec_title05": "運作濕度",
