@@ -8,8 +8,6 @@
       "lang_naven": "EN - 英文",
       "lang_navjp": "JP - 日本語",
       "lang_navshop": "線上商店",
-
-      
       "lang_feature_title": "智能插座",
       "lang_feature_cont01": "簡單安裝無須工具",
       "lang_feature_cont02": "定時設定",
@@ -18,11 +16,10 @@
       "lang_feature_cont04_1": "(須配合智能小管家進行遠端遙控)",
       "lang_feature_cont05": "功耗顯示",
       "lang_feature_cont06": "用電紀錄",
-      "lang_power_content01":"您了解家中家電的用電量嗎?",
-      "lang_power_content02":"若產品負載超過1400w或15安培",
-      "lang_power_content03":"會自動啟動斷電保護",
-      "lang_device":"隨手監控家電用電 省錢省電最智慧",
-
+      "lang_power_content01": "您了解家中家電的用電量嗎?",
+      "lang_power_content02": "若產品負載超過1400w或15安培",
+      "lang_power_content03": "會自動啟動斷電保護",
+      "lang_device": "隨手監控家電用電 省錢省電最智慧",
       "lang_bl_title": "Android",
       "lang_bl_text": "支援Android 4.4及以上版本",
       "lang_download_text01": "下載",
@@ -33,7 +30,6 @@
       "lang_win_text01": "支援Windows 8、Windows 10",
       "lang_win_text02": "僅可安裝於和小管家使用相同室內網路的 Lemel 智慧電腦棒",
       "lang_download_text03": "下載",
-
       "lang_spec_title": "產品規格",
       "lang_spec_title01": "電源輸入",
       "lang_spec_text01": "100 ~ 120V, 50/60Hz",
@@ -47,8 +43,6 @@
       "lang_spec_text05": "20% ~ 90% RH",
       "lang_spec_title06": "機身尺寸",
       "lang_spec_text06": "63mm (L) x 63mm (W) x 29mm (H)"
-      
-
    },
    {
       "lang_navproduct": "Product",
@@ -59,8 +53,6 @@
       "lang_naven": "EN - English",
       "lang_navjp": "JP - 日本語",
       "lang_navshop": "Online Shop",
-
-      
       "lang_feature_title": "Smart Plug",
       "lang_feature_cont01": "簡單安裝無須工具",
       "lang_feature_cont02": "定時設定",
@@ -69,11 +61,10 @@
       "lang_feature_cont04_1": "(須配合智能小管家進行遠端遙控)",
       "lang_feature_cont05": "功耗顯示",
       "lang_feature_cont06": "用電紀錄",
-      "lang_power_content01":"您了解家中家電的用電量嗎?",
-      "lang_power_content02":"若產品負載超過1400w或15安培",
-      "lang_power_content03":"會自動啟動斷電保護",
-      "lang_device":"隨手監控家電用電 省錢省電最智慧",
-
+      "lang_power_content01": "您了解家中家電的用電量嗎?",
+      "lang_power_content02": "若產品負載超過1400w或15安培",
+      "lang_power_content03": "會自動啟動斷電保護",
+      "lang_device": "隨手監控家電用電 省錢省電最智慧",
       "lang_bl_title": "Android",
       "lang_bl_text": "支援Android 4.4及以上版本",
       "lang_download_text01": "Download",
@@ -84,8 +75,7 @@
       "lang_win_text01": "支援Windows 8、Windows 10",
       "lang_win_text02": "僅可安裝於和小管家使用相同室內網路的 Lemel 智慧電腦棒",
       "lang_download_text03": "Download",
-
-      "lang_spec_title": "產品規格",
+      "lang_spec_title": "Product spec",
       "lang_spec_title01": "電源輸入",
       "lang_spec_text01": "100 ~ 120V, 50/60Hz",
       "lang_spec_title02": "額定負載電流",
