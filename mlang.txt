@@ -17,7 +17,7 @@
       "lang_feature_cont05": "功耗顯示",
       "lang_feature_cont06": "用電紀錄",
       "lang_power_content01": "您了解家中家電的用電量嗎?",
-
+      "lang_power_ps":"若產品負載超過1400w或15安培",
       "lang_device": "隨手監控家電用電 省錢省電最智慧",
       "lang_bl_title": "Android",
       "lang_bl_text": "支援Android 4.4及以上版本",
@@ -62,8 +62,8 @@
       "lang_feature_cont05": "功耗顯示",
       "lang_feature_cont06": "用電紀錄",
       "lang_power_content01": "您了解家中家電的用電量嗎?(en)",
-
-      "lang_device": "隨手監控家電用電 省錢省電最智慧",
+      "lang_power_ps":"若產品負載超過1400w或15安培(en)",
+      "lang_device": "隨手監控家電用電 省錢省電最智慧(en)",
       "lang_bl_title": "Android",
       "lang_bl_text": "支援Android 4.4及以上版本",
       "lang_download_text01": "Download",
