@@ -779,7 +779,7 @@ tbody{font-family:Helvetica, sans-serif, Arial, 'LiHei Pro', '微軟正黑體','
 }
 
 
-#lang_power_content02 p{
+ .power_left p{
   font-size: 22px;
   text-align: center;
   color: #565160;
