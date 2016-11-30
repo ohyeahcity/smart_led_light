@@ -753,7 +753,7 @@ tbody{font-family:Helvetica, sans-serif, Arial, 'LiHei Pro', '微軟正黑體','
   /* box-sizing: border-box;*/
   padding-bottom: 40px;
 }
-.power_left h2{
+#lang_power_content01 h2{
  color: #25A8E0;
   font-weight: bolder;
   line-height: 40px;
@@ -779,7 +779,7 @@ tbody{font-family:Helvetica, sans-serif, Arial, 'LiHei Pro', '微軟正黑體','
 }
 
 
-.power_content p{
+#lang_power_content02 p{
   font-size: 22px;
   text-align: center;
   color: #565160;
