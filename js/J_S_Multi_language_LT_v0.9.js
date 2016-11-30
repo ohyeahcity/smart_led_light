@@ -87,8 +87,8 @@ function changeImageByLang(lang_index){
           // document.getElementById('slideshowImage2').src = "images/slider_example_2.jpg" ;
           // document.getElementById('lang_pic_cause').src = "images/come_img01.jpg" ;
           // document.getElementById('lang_comeright').src = "images/PM_info.png" ;
-          document.getElementById('lang_timeswitch_img').src = "images/plug_schedule.jpg" ;
-          document.getElementById('lang_download_title_img').src = "images/download_title.jpg" ;
+          document.getElementById('lang_timeswitch_img').src="images/plug_schedule.jpg" ;
+          // document.getElementById('lang_download_title_img').src="images/download_title.jpg" ;
           console.log("image is cht");
         } else {
           // document.getElementById('slideshowImage1').src = "images/slider_example_1_eng.jpg" ;
@@ -96,7 +96,7 @@ function changeImageByLang(lang_index){
           // document.getElementById('lang_pic_cause').src = "images/come_img01_eng.jpg" ;
           // document.getElementById('lang_comeright').src = "images/PM_info_eng.png" ;
           document.getElementById('lang_timeswitch_img').src = "images/plug_schedule_eng.jpg" ;    
-          document.getElementById('lang_download_title_img').src = "images/download_title_eng.jpg" ;          
+          // document.getElementById('lang_download_title_img').src = "images/download_title_eng.jpg" ;          
           console.log("english image now");
         }
   return;
