@@ -795,9 +795,12 @@ tbody{font-family:Helvetica, sans-serif, Arial, 'LiHei Pro', '微軟正黑體','
   display: block;
   padding-top:40px;
   padding-left: 50px; 
-   background: url(../images/power_mobile_img2.png) no-repeat center bottom;
+  background: url(../images/power_mobile_img2.png) no-repeat center bottom;
   color: #FFFFFF;
   background-color: #EAEEEE;
+}
+.eng.power_right{
+  background: url(../images/power_mobile_img2_eng.png) no-repeat center bottom;
 }
 .power_right h2{
  color: #25A8E0;
@@ -814,6 +817,12 @@ tbody{font-family:Helvetica, sans-serif, Arial, 'LiHei Pro', '微軟正黑體','
     min-height: 750px;
     background-color:#E3E1E1;
   }
+  .eng.power_left{
+    background: url(../images/power_img2_min_eng.png) no-repeat center bottom;     
+    min-height: 750px;
+    background-color:#E3E1E1;
+  }
+
    .power_content{     
     min-width: 100%; 
     height: 50px;
