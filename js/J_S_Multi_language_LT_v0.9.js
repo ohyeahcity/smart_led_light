@@ -147,6 +147,12 @@ function changeAllNavBarUIWording(arr,lang_index){
   document.getElementById('lang_spec_text05').innerHTML = arr[lang_index].lang_spec_text05;
   document.getElementById('lang_spec_title06').innerHTML = arr[lang_index].lang_spec_title06;
   document.getElementById('lang_spec_text06').innerHTML = arr[lang_index].lang_spec_text06;
+  document.getElementById('lang_spec_title07').innerHTML = arr[lang_index].lang_spec_title07;
+  document.getElementById('lang_spec_text07').innerHTML = arr[lang_index].lang_spec_text07;
+  document.getElementById('lang_spec_title08').innerHTML = arr[lang_index].lang_spec_title08;
+  document.getElementById('lang_spec_text08').innerHTML = arr[lang_index].lang_spec_text08;
+  document.getElementById('lang_spec_title09').innerHTML = arr[lang_index].lang_spec_title09;
+  document.getElementById('lang_spec_text09').innerHTML = arr[lang_index].lang_spec_text09;
   return;
 }
 function detectUserLang(){
