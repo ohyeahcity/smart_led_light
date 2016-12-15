@@ -220,7 +220,8 @@ margin: 0 auto;
   background-color: #00AEEF;
   height: auto;
   text-align: center;
-  padding-top:100px;
+
+  padding-top:130px;
   padding-bottom:100px;
 }
 
@@ -230,13 +231,7 @@ margin: 0 auto;
   margin:0 auto;
   /*background-color: grey;*/
   margin-bottom: 10px;
-  /*margin-top: 40px;*/
-}
-.FEATURE .secondline img{
-  display: block;
-  margin:0 auto;
-  margin-bottom: 10px;
-  margin-top: 40px;
+  margin-top: 40px
 }
 
 .FEATURE h2{
@@ -711,6 +706,8 @@ tbody{font-family:Helvetica, sans-serif, Arial, 'LiHei Pro', '微軟正黑體','
   padding: 0;
 	margin: 0 auto;
   margin-top: 100px;
+
+
 }
 
 
@@ -718,6 +715,7 @@ tbody{font-family:Helvetica, sans-serif, Arial, 'LiHei Pro', '微軟正黑體','
   background-image: url(../images/timeswitch.jpg);
   background-size:cover;
   min-height:950px;
+
 }
 .jumbotron.group{
   background-image: url(../images/group_bg.jpg);
@@ -731,110 +729,7 @@ tbody{font-family:Helvetica, sans-serif, Arial, 'LiHei Pro', '微軟正黑體','
 
   .jumbotron.timeswitch{
     background-image: url(../images/timeswitch_min.jpg);
-  }
-}
-/*.power{
-  min-height: 500px;
- 
-}*/
 
 
-.power_left{
-  min-height: 650px;
-  /*max-width: 100%;*/  
-  margin: 0 auto;
-  display: block;
-
-  padding-top:40px; 
-  padding-left: 50px; 
-  padding-bottom: -100px;
-  background: url(../images/power_img2.png) no-repeat center bottom; 
-  background-color: #E3E1E1;
-  /* box-sizing: border-box;*/
-  padding-bottom: 40px;
-}
-#lang_power_content01{
- color: #25A8E0;
-  font-weight: bolder;
-  line-height: 40px;
-  font-size: 28px;
-  text-align: center;
-}
-.power_left p{
-  
-  margin-top: 10px;
-  color: #565160;
-  font-size: 25px;
-  text-align: center;
-}
-
-.power_content{
-  min-width: 100%; 
-  height: 50px;
-  line-height: 25px;
-  display: block; 
-  background-color:#E3E1E1;
-  margin-top: 480px; 
-  padding: 0;
-}
-
-
- .power_left p{
-  font-size: 22px;
-  text-align: center;
-  color: #565160;
-}
-.device-container{
-  margin: 0 auto;
-
-}
-.power_right{ 
-  min-height: 650px;
-  /*max-width: 100%;*/  
-  margin: 0 auto;
-  display: block;
-  padding-top:40px;
-  padding-left: 50px; 
-  background: url(../images/power_mobile_img2.png) no-repeat center bottom;
-  color: #FFFFFF;
-  background-color: #EAEEEE;
-}
-.eng.power_right{
-  background: url(../images/power_mobile_img2_eng.png) no-repeat center bottom;
-}
-.power_right h2{
- color: #25A8E0;
-  font-weight: bolder;
-  line-height: 40px;
-  font-size: 28px;
-  text-align: center;
-}
-
-@media(max-width:768px){
-
-  .power_left{
-    background: url(../images/power_img2_min.png) no-repeat center bottom;     
-    min-height: 750px;
-    background-color:#E3E1E1;
-  }
-  .eng.power_left{
-    background: url(../images/power_img2_min_eng.png) no-repeat center bottom;     
-    min-height: 750px;
-    background-color:#E3E1E1;
-  }
-
-   .power_content{     
-    min-width: 100%; 
-    height: 50px;
-    line-height: 25px;
-    display: block; 
-    background-color:#E3E1E1;    
-    margin-top: 550px;
-   }
-  .power_content p{
-     
-    font-size: 22px;
-    text-align: center;
-    color: #565160;
   }
 }
