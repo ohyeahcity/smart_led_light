@@ -16,7 +16,7 @@
       "lang_feature_cont02": "透過App調整亮度",
       "lang_feature_cont03": "排程燈泡開關",
       "lang_feature_cont04": "24hr遠端遙控",
-      "lang_feature_cont04_1":"(須配合智能小管家進行遠端遙控)",
+      "lang_feature_cont04_1":"*須配合智能小管家進行遠端遙控",
       "lang_feature_cont05": "LED燈泡省電又耐久",
       "lang_feature_cont06": "一次控制好多顆",
       
@@ -69,7 +69,7 @@
       "lang_feature_cont02": "Adjust throught APP",
       "lang_feature_cont03": "Schedule whenever you like it",
       "lang_feature_cont04": "24hrs remote control ",
-      "lang_feature_cont04_1":"(*via Ripple Control)",
+      "lang_feature_cont04_1":"*via Ripple Control",
       "lang_feature_cont05": "Power saving LED with long life",
       "lang_feature_cont06": "Control multiple devices in one single APP",
 
