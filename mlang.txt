@@ -11,7 +11,8 @@
 
       
       "lang_feature_title": "開燈、關燈，從來沒那麼方便",
-      "lang_feature_cont01": "簡單安裝，相容原有燈座",
+      "lang_feature_cont01": "簡單安裝",
+      "lang_feature_cont01_1": "相容原有燈座",
       "lang_feature_cont02": "透過App調整亮度",
       "lang_feature_cont03": "排程燈泡開關",
       "lang_feature_cont04": "24hr遠端遙控",
@@ -63,7 +64,8 @@
 
       
       "lang_feature_title": "Never been this easy to control the light",
-      "lang_feature_cont01": "So easy you don't have to change anything",
+      "lang_feature_cont01": "So easy you don't have to ",
+      "lang_feature_cont01_1": "change anything",
       "lang_feature_cont02": "Adjust throught APP",
       "lang_feature_cont03": "Schedule whenever you like it",
       "lang_feature_cont04": "24hrs remote control *via Ripple Control",
