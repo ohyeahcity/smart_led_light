@@ -89,7 +89,7 @@ function changeImageByLang(lang_index){
           // document.getElementById('lang_comeright').src = "images/PM_info.png" ;
           document.getElementById('lang_control_img').src = "images/control.jpg" ;
           document.getElementById('lang_schedule_img').src = "images/schedule.jpg" ;
-          // document.getElementById('lang_blue_img_min').src = "images/bluetooth_bg_min.jpg" ;
+          document.getElementById('lang_download_img').src = "images/download_title.jpg" ;
           console.log("image is cht");
         } else {
           document.getElementById('slideshowImage1').src = "images/smart_led_light_1_eng.jpg" ;
@@ -98,7 +98,7 @@ function changeImageByLang(lang_index){
           // document.getElementById('lang_comeright').src = "images/PM_info_eng.png" ;
           document.getElementById('lang_control_img').src = "images/control_eng.jpg" ;
           document.getElementById('lang_schedule_img').src = "images/schedule_eng.jpg" ;
-          // document.getElementById('lang_blue_img_min').src = "images/bluetooth_bg_min_eng.jpg" ;
+         document.getElementById('lang_download_img').src = "images/download_title_eng.jpg" ;
           console.log("english image now");
         }
   return;
@@ -123,6 +123,8 @@ function changeAllNavBarUIWording(arr,lang_index){
   document.getElementById('lang_feature_cont05').innerHTML = arr[lang_index].lang_feature_cont05;
   document.getElementById('lang_feature_cont06').innerHTML = arr[lang_index].lang_feature_cont06;
   
+  document.getElementById('lang_bl_title').innerHTML = arr[lang_index].lang_bl_title;
+  document.getElementById('lang_bl_text').innerHTML = arr[lang_index].lang_bl_text; 
   document.getElementById('lang_download_text01').innerHTML = arr[lang_index].lang_download_text01;
   document.getElementById('lang_iphone_title').innerHTML = arr[lang_index].lang_iphone_title;
   document.getElementById('lang_iphone_text').innerHTML = arr[lang_index].lang_iphone_text;
