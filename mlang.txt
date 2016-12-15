@@ -68,7 +68,8 @@
       "lang_feature_cont01_1": "change anything",
       "lang_feature_cont02": "Adjust throught APP",
       "lang_feature_cont03": "Schedule whenever you like it",
-      "lang_feature_cont04": "24hrs remote control *via Ripple Control",
+      "lang_feature_cont04": "24hrs remote control ",
+      "lang_feature_cont04_1":"(*via Ripple Control)",
       "lang_feature_cont05": "Power saving LED with long life",
       "lang_feature_cont06": "Control multiple devices in one single APP",
 
