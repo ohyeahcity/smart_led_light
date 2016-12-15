@@ -84,7 +84,7 @@ function changeNavBarUIWording(lang_index){
 function changeImageByLang(lang_index){
     if(lang_index==0){
           document.getElementById('slideshowImage1').src = "images/smart_led_light_1.jpg" ;
-          document.getElementById('slideshowImage2').src = "images/slider_example_2.jpg" ;
+          document.getElementById('slideshowImage2').src = "images/smart_led_light_2.jpg" ;
           // document.getElementById('lang_pic_cause').src = "images/come_img01.jpg" ;
           // document.getElementById('lang_comeright').src = "images/PM_info.png" ;
           document.getElementById('lang_control_img').src = "images/control.jpg" ;
@@ -93,7 +93,7 @@ function changeImageByLang(lang_index){
           console.log("image is cht");
         } else {
           document.getElementById('slideshowImage1').src = "images/smart_led_light_1_eng.jpg" ;
-          document.getElementById('slideshowImage2').src = "images/slider_example_2_eng.jpg" ;
+          document.getElementById('slideshowImage2').src = "images/smart_led_light_2_eng.jpg" ;
           // document.getElementById('lang_pic_cause').src = "images/come_img01_eng.jpg" ;
           // document.getElementById('lang_comeright').src = "images/PM_info_eng.png" ;
           document.getElementById('lang_control_img').src = "images/control_eng.jpg" ;
@@ -138,7 +138,7 @@ function changeAllNavBarUIWording(arr,lang_index){
   document.getElementById('lang_spec_text02').innerHTML = arr[lang_index].lang_spec_text02;
   document.getElementById('lang_spec_title03a').innerHTML = arr[lang_index].lang_spec_title03a;
   document.getElementById('lang_spec_text03').innerHTML = arr[lang_index].lang_spec_text03;
-  document.getElementById('lang_spec_text03_1').innerHTML = arr[lang_index].lang_spec_text03_1;
+
   document.getElementById('lang_spec_title04').innerHTML = arr[lang_index].lang_spec_title04;
   document.getElementById('lang_spec_text04').innerHTML = arr[lang_index].lang_spec_text04;
   document.getElementById('lang_spec_title05').innerHTML = arr[lang_index].lang_spec_title05;
