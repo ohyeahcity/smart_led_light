@@ -502,12 +502,19 @@ font-weight:bolder;
   margin: 0 auto;
 }
 
-/*@media(min-width:993px){
+@media(min-width:993px){
 
   .BLUE{
     display: block;
   }
   .BLUE_min{
+    display: none;
+  }
+
+  .BLUE_group{
+    display: block;
+  }
+  .BLUE_group_min{
     display: none;
   }
 }
@@ -521,7 +528,14 @@ font-weight:bolder;
     display: block;
   }
 
-}*/
+  .BLUE_group{
+    display: none;
+  }
+  .BLUE_group_min{
+    display: block;
+  }
+
+}
 
 
 
