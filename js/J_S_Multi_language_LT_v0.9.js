@@ -102,7 +102,7 @@ function changeImageByLang(lang_index){
           document.getElementById('lang_schedule_img').src = "images/schedule_eng.jpg" ;
           document.getElementById('lang_schedule_img_min').src = "images/schedule_min_eng.jpg" ;
           document.getElementById('lang_control_img').src = "images/control_eng.jpg" ;
-
+           document.getElementById('lang_control_img_min').src = "images/control_min_eng.jpg" ;
          document.getElementById('lang_download_img').src = "images/download_title_eng.jpg" ;
           console.log("english image now");
         }
